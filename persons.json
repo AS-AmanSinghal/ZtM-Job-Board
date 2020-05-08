@@ -30,4 +30,19 @@
       "state": "Florida",
       "country": "United States]"
     }
+  },{
+    "id": 1002,
+    "name": "Aman Singhal",
+    "img": "https://drive.google.com/open?id=1qoL08ZEdlbJF20qRGRxg8ev2c7SqJ3Kl",
+    "links": {
+      "website": "amansinghal.xyz",
+      "linkedin": "https://www.linkedin.com/in/amansinghal050/",
+      "github": "https://github.com/AS-AmanSinghal"
+    },
+    "jobTitle": "Android & PhP Developer",
+    "location": {
+      "city": "Mathura",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
   }
